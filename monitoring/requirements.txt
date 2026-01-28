@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo
+pika
+python-socketio[asyncio_client]
+python-dateutil
+pydantic
+python-dotenv
